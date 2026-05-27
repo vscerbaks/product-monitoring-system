@@ -17,8 +17,7 @@ The system monitors listings, tracks updates, collects data, and helps automate 
 
 - Python
 - Playwright
-- BeautifulSoup
-- Pandas
+- Telebot
 
 ## Installation
 
