@@ -16,7 +16,7 @@ The system monitors listings, tracks updates, collects data, and helps automate 
 ## Tech Stack
 
 - Python
-- Selenium / Playwright
+- Playwright
 - BeautifulSoup
 - Pandas
 
